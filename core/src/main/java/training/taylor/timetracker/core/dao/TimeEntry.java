@@ -12,6 +12,7 @@ public class TimeEntry {
     private String description;
     private float rate;
     private int time;
+    private String build;
 
     public String getDescription() {
         return description;
